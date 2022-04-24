@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data;
+using Capa_Datos;
+
+namespace Capa_Negocios
+{
+    public class acciones
+    {
+        private Metodos data = new Metodos();
+
+        public DataTable consultar()
+        {
+            DataTable tabla = new DataTable();
+            tabla = data.consultar();
+            return tabla;
+        }
+
+        public void Eliminar(string id_Entidad)
+        {
+            data.Eliminar(Convert.ToInt32(id_Entidad));
+        }
+
+}

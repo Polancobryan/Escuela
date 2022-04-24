@@ -1,0 +1,14 @@
+C:\Users\bryan\source\repos\Registros_Escuela\bin\Debug\Registros_Escuela.exe.config
+C:\Users\bryan\source\repos\Registros_Escuela\bin\Debug\Registros_Escuela.exe
+C:\Users\bryan\source\repos\Registros_Escuela\bin\Debug\Registros_Escuela.pdb
+C:\Users\bryan\source\repos\Registros_Escuela\obj\Debug\Registros_Escuela.csproj.AssemblyReference.cache
+C:\Users\bryan\source\repos\Registros_Escuela\obj\Debug\Registros_Escuela.csproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\source\repos\Registros_Escuela\obj\Debug\Registros_Escuela.Properties.Resources.resources
+C:\Users\bryan\source\repos\Registros_Escuela\obj\Debug\Registros_Escuela.csproj.GenerateResource.cache
+C:\Users\bryan\source\repos\Registros_Escuela\obj\Debug\Registros_Escuela.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Registros_Escuela\obj\Debug\Registros_Escuela.exe
+C:\Users\bryan\source\repos\Registros_Escuela\obj\Debug\Registros_Escuela.pdb
+C:\Users\bryan\source\repos\Registros_Escuela\obj\Debug\Registros_Escuela.VentanaEstudiante.resources
+C:\Users\bryan\source\repos\Registros_Escuela\obj\Debug\Registros_Escuela.VentanaMaestro.resources
+C:\Users\bryan\source\repos\Registros_Escuela\obj\Debug\Registros_Escuela.Inicio.resources
+C:\Users\bryan\source\repos\Registros_Escuela\obj\Debug\Registros_Escuela.VentanaDirector.resources
